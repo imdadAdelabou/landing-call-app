@@ -87,12 +87,13 @@ export default {
 }
 
 .call {
+  width: 350px;
   animation: MoveUpDown 3s linear infinite;
   height: 500px;
   border-radius: 8px;
   position: absolute;
   top: 170px;
- left: 250px;
+ left: 150px;
  right: 250px;
  
 }
