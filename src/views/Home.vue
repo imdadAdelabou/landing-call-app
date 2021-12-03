@@ -67,6 +67,7 @@ export default {
   background-color: #4464FF;
   position: relative;
   border-radius: 0 50% 50% 0;
+  background-image: url('../assets/blacl.jpeg');
 }
 
 
@@ -165,5 +166,6 @@ export default {
   .main .rightElm {
     margin: 0 auto;
   } 
+
 }
 </style>
