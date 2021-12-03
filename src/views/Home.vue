@@ -64,7 +64,7 @@ export default {
 .main .leftElm {
  width: 50%;
   height: 100vh;
-  background-color: #4464FF;
+  background-color: black;
   position: relative;
   border-radius: 0 50% 50% 0;
   background-image: url('../assets/blacl.jpeg');
